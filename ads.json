@@ -1,1 +1,19 @@
-{}
+{
+    "bs-apistrategy-gluu": {
+        "projectName": "bs-apistrategy-gluu",
+        "description": "dev environment app",
+        "type": "community",
+        "author": "Internal-Security",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/Internal-Security/Gluu_init",
+        "githubUri": "https://github.com/Internal-Security/Gluu_init",
+        "license": "apache-2.0",
+        "lastUpdated": "1700573382460",
+        "tags": [
+            "openid-connect",
+            "mtls"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
